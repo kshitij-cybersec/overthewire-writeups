@@ -6,7 +6,7 @@ Writeups from OverTheWire wargames as part of my Linux and security fundamentals
 
 | Levels | Topics | Date | Writeup |
 |--------|--------|------|---------|
-| 0–8 | SSH, cat, hidden files, file types, find, grep | Apr 2025 | [View](./bandit/bandit-0-8.md) |
+| 0–8 | SSH, cat, hidden files, file types, find, grep | Apr 2025 | [View](./bandit-0-8.md) |
 
 ---
 
